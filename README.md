@@ -8,3 +8,7 @@ Fonctionnalités :
  * Connexion en gardant vos identifiants privés
  * Choix du lieu
  * Choix des créneaux 
+
+Contient 2 versions : 
+ * Api qui utilise l'api de Staffomatic
+ * Web qui utilise l'interface graphique du site 
